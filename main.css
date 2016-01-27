@@ -1,0 +1,17 @@
+.one{
+	border: 12px solid yellow;
+	width: 250px;
+	height:200px;
+	text-align: center;
+	padding: 10px;
+
+}
+.two{
+	border: 12px solid yellow;
+	width: 250px;
+	height:200px;
+	text-align: left;
+	margin: auto;
+	padding: 25px;
+
+}
